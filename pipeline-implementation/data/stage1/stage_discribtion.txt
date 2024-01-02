@@ -1,0 +1,2 @@
+ Git doesn’t track empty folders
+ there is a function to kill me don't worry 
